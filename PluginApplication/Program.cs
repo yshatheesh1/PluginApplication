@@ -6,7 +6,9 @@ namespace PluginApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var pluginPaths = new string [] {
+
+            };
         }
     }
 }
